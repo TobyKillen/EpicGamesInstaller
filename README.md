@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./epicgames.svg" />
+  <img src="./media/epicgames.svg" />
 </p>
 
 
